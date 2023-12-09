@@ -51,6 +51,5 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
     <a style="background-color: white; border-radius: 6px; display: inline-block; padding: 10px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00);" href="https://twitter.com/Hj_Rimon"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
 
-</style>
 
 Let's collaborate and build something amazing together! 🚀
