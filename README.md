@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-
+![Header](https://raw.githubusercontent.com/HjRimon/HjRimon/main/assets/github-header-image.png)
 
 # Hi, I'm Rimon! 👋
 
@@ -43,7 +42,5 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Hj_Rimon)
-
-
 
 Let's collaborate and build something amazing together! 🚀
