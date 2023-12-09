@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/HjRimon/HjRimon/main/assets/github-header-image.png)
+![Header](<https://raw.githubusercontent.com/HjRimon/HjRimon/main/assets/github-header-image%20(1).png>)
 
 # Hi, I'm Rimon! 👋
 
