@@ -56,6 +56,4 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
   </a>
 </p>
 
-</style>
-
 Let's collaborate and build something amazing together! 🚀
