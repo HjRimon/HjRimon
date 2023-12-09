@@ -1,3 +1,6 @@
+![Header](./your-header-image-name.png)
+
+
 # Hi, I'm Rimon! 👋
 
 I'm a Junior web developer passionate about crafting exceptional digital experiences. My commitment to innovation is fueled by insatiable curiosity. I continuously strive to learn and implement cutting-edge solutions for a dynamic, forward-thinking approach in my work.
@@ -41,6 +44,6 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Hj_Rimon)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://hjrimon.github.io/HjRimon-portfolio/)
+
 
 Let's collaborate and build something amazing together! 🚀
