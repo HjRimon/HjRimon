@@ -47,11 +47,11 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/">
-    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" style="background-color: white; border-radius: 6px; display: inline-block; padding: 8px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00); margin-right:5px;" />
+    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" style="margin-right: 5px;" />
   </a>
   <a href="https://twitter.com/Hj_Rimon">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" style="background-color: white; border-radius: 6px; display: inline-block; padding: 10px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00);" />
+    <img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" />
   </a>
 </p>
 
-Let's collaborate and build something amazing together! 🚀
+**Let's collaborate and build something amazing together!** 🚀
