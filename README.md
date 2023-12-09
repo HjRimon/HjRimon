@@ -1,4 +1,4 @@
-![Header](<https://raw.githubusercontent.com/HjRimon/HjRimon/main/assets/github-header-image%20(1).png>)
+![Header](https://www.joberty.com/blog/content/images/size/w1272/2023/09/web-developers.png)
 
 # Hi, I'm Rimon! 👋
 
