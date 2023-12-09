@@ -45,13 +45,11 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/">
-    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" style="margin-right: 5px;" />
-  </a>
-  <a href="https://twitter.com/Hj_Rimon">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" />
-  </a>
-</p>
+
+
+<a href="https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hjrimon" height="30" width="40" /></a>
+<a href="https://twitter.com/Hj_Rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hjrimon" height="30" width="40" /></a>
+
+
 
 **Let's collaborate and build something amazing together!** 🚀
