@@ -6,7 +6,9 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 ## 🚀 About Me
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<div style="float: right; margin-left: 20px;">
+  <img width="70%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</div>
 
 - 🔭 **Currently working on:** BAF Shaheen College Dhaka Mathematics Club Website.
 - 🌱 **Constantly learning:** Javascript, NEXT.js
@@ -35,22 +37,23 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 ### 📝 Current Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HjRimon&theme=blueberry-duo&border_radius=12" alt="GitHub Streak" />
-</p> -->
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HjRimon&theme=blueberry-duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/HjRimon">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=HjRimon&theme=blueberry-duo&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 🔗 Connect with Me
 
 <p align="center">
-    <a style="background-color: white; border-radius: 6px; display: inline-block; padding: 8px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00); margin-right:5px;" href="https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a style="background-color: white; border-radius: 6px; display: inline-block; padding: 10px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00);" href="https://twitter.com/Hj_Rimon"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+  <a href="https://www.linkedin.com/in/hasanath-jilhan-a86b3425a/">
+    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" style="background-color: white; border-radius: 6px; display: inline-block; padding: 8px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00); margin-right:5px;" />
+  </a>
+  <a href="https://twitter.com/Hj_Rimon">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" style="background-color: white; border-radius: 6px; display: inline-block; padding: 10px; border: 2px solid; background-image: linear-gradient(to right, #00FFFF, #7CFC00);" />
+  </a>
 </p>
-
-</style>
 
 Let's collaborate and build something amazing together! 🚀
