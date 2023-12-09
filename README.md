@@ -6,14 +6,17 @@ I'm a Junior web developer passionate about crafting exceptional digital experie
 
 ## 🚀 About Me
 
-<div style="float: right; margin-left: 20px;">
-  <img width="30%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - 🔭 **Currently working on:** BAF Shaheen College Dhaka Mathematics Club Website.
+    - 🌱 **Constantly learning:** Javascript, NEXT.js
+    - 💡 **Love exploring:** Advanced motion graphics for the web.
+    - 📩 **Email:** rimon200717@gmail.com
+  </div>
+  <div style="margin-left: 20px;">
+    <img width="30%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+  </div>
 </div>
-
-- 🔭 **Currently working on:** BAF Shaheen College Dhaka Mathematics Club Website.
-- 🌱 **Constantly learning:** Javascript, NEXT.js
-- 💡 **Love exploring:** Advanced motion graphics for the web.
-- 📩 **Email:** rimon200717@gmail.com
 
 ## 💻 Technologies that I know
 
