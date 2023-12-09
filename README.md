@@ -1,4 +1,8 @@
+<p align="center">
+
 ![Header](<https://raw.githubusercontent.com/HjRimon/HjRimon/main/assets/github-header-image%20(1).png>)
+
+</p>
 
 # Hi, I'm Rimon! 👋
 
